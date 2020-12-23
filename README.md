@@ -20,5 +20,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-### Deployment
+## Deployment
 This app is deployed here: https://meme-gen.herokuapp.com/
